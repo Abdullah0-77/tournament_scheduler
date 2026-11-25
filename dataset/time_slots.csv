@@ -1,0 +1,5 @@
+slot_id,slot_number,start_time,duration_minutes
+S1,1,08:00,90
+S2,2,11:00,90
+S3,3,14:00,90
+S4,4,17:00,90

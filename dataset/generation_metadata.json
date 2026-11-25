@@ -1,0 +1,7 @@
+{
+    "generator": "Feasible-First Tournament Generator",
+    "random_seed": 42,
+    "complexity_level": "complex",
+    "reference_schedule_included": true,
+    "validation_status": "passed"
+}

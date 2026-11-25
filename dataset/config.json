@@ -1,0 +1,16 @@
+{
+    "tournament_format": "single_round_robin",
+    "num_teams": 18,
+    "num_venues": 6,
+    "num_slots_per_day": 4,
+    "num_matches": 153,
+    "num_rounds": 17,
+    "active_round_days": 17,
+    "calendar_span_days": 33,
+    "round_interval_hours": 48,
+    "minimum_rest_hours": 24,
+    "match_duration_minutes": 90,
+    "home_away": false,
+    "complexity_level": "complex",
+    "random_seed": 42
+}
